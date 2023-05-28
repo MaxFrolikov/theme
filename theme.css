@@ -930,8 +930,8 @@ body::after {
 #app-mount .role-23oyrw .roleColor-3cA0as {					/* welcomemessage		rolecircle							*/
 	position: absolute;
 	background-color: var(--text-normal);
-	border-radius: 3px;
-	opacity: 0.5;
+	border-radius: 1px;
+	opacity: 1;
 	height: 100%;
 	width: 100%;
 	margin: 0;

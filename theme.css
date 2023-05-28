@@ -2,13 +2,13 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
-	--transparencycolor:			0,0,0;
+	--transparencycolor:			255,255,255;
 	--transparencyalpha:			0.15;
 	--messagetransparency:			0.5;
 	--usechatbubbles: 				calc(var(--messagetransparency) / (var(--messagetransparency) + 0.00000000000000000000001));
-	--guildchanneltransparency:		0.25;
-	--chatinputtransparency:		0.1;
-	--memberlisttransparency:		0.1;
+	--guildchanneltransparency:		0.15;
+	--chatinputtransparency:		0.05;
+	--memberlisttransparency:		0.05;
 	
 	--font:						"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;

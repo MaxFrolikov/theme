@@ -13,7 +13,7 @@
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;
 	
-	--accentcolor:					228,228,228;
+	--accentcolor:					64,64,64;
 	--accentcolor2:					var(--accentcolor);
 	--mentioncolor:					var(--accentcolor);
 	--linkcolor:					var(--accentcolor);

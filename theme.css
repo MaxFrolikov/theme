@@ -13,7 +13,7 @@
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;
 	
-	--accentcolor:					127,128,128;
+	--accentcolor:					228,228,228;
 	--accentcolor2:					var(--accentcolor);
 	--mentioncolor:					var(--accentcolor);
 	--linkcolor:					var(--accentcolor);
@@ -29,7 +29,7 @@
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
 	
-	--background:					url(https://pibig.info/uploads/posts/2022-08/1659402419_1-pibig-info-p-chernii-fon-v-krapinku-krasivo-1.jpg);
+	--background:					url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
 	--backgroundblur:				unset;

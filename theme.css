@@ -16,7 +16,7 @@
 	--accentcolor:					64,64,64;
 	--accentcolor2:					var(--accentcolor);
 	--mentioncolor:					var(--accentcolor);
-	--linkcolor:					var(--accentcolor);
+	--linkcolor:					128,128,128;
 	
 	--successcolor: 				59,165,92;
 	--warningcolor: 				250,166,26;

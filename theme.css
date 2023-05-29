@@ -4694,69 +4694,6 @@ img[src="/assets/cef02719c12d8aaf38894c16dca7fbe6.svg"] {	/* rolesettings			addr
 	box-sizing: content-box;
 }
 
-.root-jbEB5E {												/* body					roles								*/
-	max-height: 100px;
-	overflow-x: hidden;
-	overflow-y: scroll;
-}
-#app-mount .root-jbEB5E::-webkit-scrollbar {
-	width: 4px;
-}
-#app-mount .role-2TIOKu {									/* body					role								*/
-	border-color: rgba(var(--textbrighter), .6);
-	border-radius: 5px;
-	padding: 0 5px;
-	position: relative;
-}
-#app-mount .role-2TIOKu[style*="border-color: rgba(185, 187, 190, .6)"] {
-	border-color: rgba(var(--textbrighter), .6) !important;
-}
-#app-mount .rolePillBorder-RiRiuN:not(.actionButton-1YKTU0) {
-	border-width: 0;
-}
-#app-mount .role-2TIOKu .roleName-2ZJJYR {					/* body					rolename							*/
-	position: relative;
-	color: rgb(var(--textbrightest));
-	height: 20px;
-	line-height: 20px;
-	margin: 0;
-	font-weight: normal;
-	z-index: 1000;
-	pointer-events: none;
-}
-#app-mount .role-2TIOKu .roleRemoveButton-17oXnT {
-	position: absolute;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-}
-#app-mount .role-2TIOKu .roleCircle-3TFUOr {				/* body					rolecircle							*/
-	position: absolute;
-	background-color: rgb(var(--textbrighter));
-	border-radius: 3px;
-	opacity: 0.3;
-	height: 100%;
-	width: 100%;
-	margin: 0;
-	left: 0;
-	top: 0;
-}
-#app-mount .role-2TIOKu .roleCircle-3TFUOr[style*="background-color: rgb(185, 187, 190)"] {
-	background-color: rgb(var(--textbrighter)) !important;
-}
-#app-mount .role-2TIOKu .roleCircle-3TFUOr:not(:only-child):hover {
-	opacity: 1;
-	z-index: 2000;
-	cursor: pointer;
-}
-#app-mount .role-2TIOKu .roleRemoveIcon-387wKV {
-	z-index: 2001;
-	pointer-events: none;
-}
-#app-mount .role-2TIOKu .roleIcon-29epUq {
-	z-index: 1;
-}
 
 .textarea-_59yqs:focus {									/* body					note 								*/
 	background-color: rgba(var(--transparencycolor), .2);
